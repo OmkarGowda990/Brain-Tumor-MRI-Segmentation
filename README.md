@@ -1,1 +1,1 @@
-# Gastrointestinal-tract-Image-Segmentation
+# Brain-Tumor-MRI-Segmentation
